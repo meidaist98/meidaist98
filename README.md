@@ -32,7 +32,6 @@
 #### AI & Automation
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat)](https://claude.ai/code)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-8B5CF6?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat)
 ![Agentic Workflow](https://img.shields.io/badge/Agentic%20Workflow-7C3AED?style=flat)
