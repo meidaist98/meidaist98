@@ -19,24 +19,25 @@
 ### 🔧 Tools & Skills
 
 #### GIS & Spatial
+![Spatial Data Analysis](https://img.shields.io/badge/Spatial%20Data%20Analysis%20%26%20Interpretation-589632?style=flat)
+![Spatial Data Creation](https://img.shields.io/badge/Spatial%20Data%20Creation%20%26%20Management-3D7A3D?style=flat)
+![Programming for Spatial](https://img.shields.io/badge/Programming%20for%20Spatial%20Analysis-2C7AC3?style=flat)
+![Cartography](https://img.shields.io/badge/Cartography%20%26%20Visualization-4A90D9?style=flat)
+![Database Management](https://img.shields.io/badge/Database%20Management%20%26%20SQL-4479A1?style=flat)
+
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)](https://qgis.org)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)](https://www.esri.com)
 ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-4A90D9?style=flat)
 
-#### Data & Automation
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipeline-FF6F00?style=flat)
-
-#### AI & Developer Tools
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat)
+#### AI & Automation
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat)](https://claude.ai/code)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev)
-![AI API](https://img.shields.io/badge/AI%20API%20Integration-8B5CF6?style=flat)
-
-#### Visualization
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://tableau.com)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-8B5CF6?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat)
+![Agentic Workflow](https://img.shields.io/badge/Agentic%20Workflow-7C3AED?style=flat)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-5B21B6?style=flat)
+![Automated Workflow](https://img.shields.io/badge/Automated%20Workflow%20Design-FF6F00?style=flat)
 
 ---
 
