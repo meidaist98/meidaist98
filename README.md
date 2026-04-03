@@ -1,6 +1,6 @@
 ## Hi there, I'm Meida 👋
 
-🌍 GIS & Data Specialist with 3+ years of experience turning complex spatial and tabular data into actionable insights.
+🌍 GIS & Data Specialist with 5+ years of experience turning complex spatial and tabular data into actionable insights.
 
 🤖 Currently working as **AI/Automation R&D Specialist** at Chronicle — building production-ready automation tools including data matching pipelines, AI-powered QA validators, and document processing systems that handle tens of thousands of records.
 
